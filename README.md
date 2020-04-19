@@ -16,8 +16,8 @@
 |  CH  | Chapter Subject                                              | Question | Note              |
 | :--: | :----------------------------------------------------------- | :------- | :---------------- |
 | 1~3  | [시작하기](https://github.com/ywangnon/SwiftUI-Study/blob/master/챕터%201/시작하기.md) |          | 기본적인 설정     |
-|  4   | 플레이그라운드                                               |          | playground 사용법 |
-|  5   | 스위프트 데이터 타입, 상수, 그리고 변수                      |          | 데이터 타입       |
+|  4   | [플레이그라운드](https://github.com/ywangnon/SwiftUI-Study/blob/master/챕터%204/플레이그라운드.md) |          | playground 사용법 |
+|  5   | [스위프트 데이터 타입, 상수, 그리고 변수](https://github.com/ywangnon/SwiftUI-Study/blob/master/챕터%205/스위프트%20데이터%20타입%2C%20상수%2C%20그리고%20변수.md) |          | 데이터 타입       |
 
 
 
